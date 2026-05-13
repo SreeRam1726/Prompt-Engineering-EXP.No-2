@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[Prompt.Engineering.ex2 (1).pdf](https://github.com/user-attachments/files/27693062/Prompt.Engineering.ex2.1.pdf)
+
 
 RESULT:
+Testing various platforms and summarizing is done successfully.
